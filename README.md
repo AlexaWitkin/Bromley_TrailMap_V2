@@ -65,7 +65,7 @@ In Progress:
 
 Updated Schematic:
 
-
+![Schematic](textures/Bromley_Schematic.jpg)
 
 ----------------------------------------------------------------------
 Newest Idea:
